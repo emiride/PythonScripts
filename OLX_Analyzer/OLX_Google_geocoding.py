@@ -5,7 +5,7 @@ import numpy as np
 from threading import Thread
 from queue import Queue
 
-KEY = "AIzaSyCEcQX-MJOjDFLS-cPd525gdAAjnY-rfMo"
+KEY = ""
 
 
 df = pd.read_csv(r"C:\TaskScheduler\stanovi_24032017.csv")
